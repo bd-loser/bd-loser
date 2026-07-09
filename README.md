@@ -70,10 +70,10 @@ static const struct developer bd_loser = {
 <div align="center">
 
 <a href="https://github.com/bd-loser/bun-termux">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bd-loser&repo=bun-termux&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&border_color=30363d" width="450"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bd-loser&repo=bun-termux&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" width="450"/>
 </a>
 <a href="https://github.com/bd-loser/opentui">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bd-loser&repo=opentui&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&border_color=30363d" width="450"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bd-loser&repo=opentui&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d" width="450"/>
 </a>
 
 </div>
