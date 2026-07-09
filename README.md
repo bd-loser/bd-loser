@@ -32,7 +32,7 @@ static const struct developer bd_loser = {
 
 ---
 
-<!-- Tech Stack -->
+
 ### Tech Stack
 
 <div align="center">
