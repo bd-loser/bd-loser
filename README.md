@@ -90,7 +90,7 @@ static const struct developer bd_loser = {
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bd-loser&show_icons=true&theme=github_dark&title_color=58a6ff&icon_color=1f6feb&bg_color=0d1117&border_color=30363d&hide_border=false&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bd-loser&theme=github-dark-blue&hide_border=false&background=0D1117&stroke=30363D&ring=1F6FEB&fire=58A6FF&curr=1F6FEB&side=8B949E" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=bd-loser&theme=github-dark-blue&hide_border=false&background=0D1117&stroke=30363D&ring=1F6FEB&fire=58A6FF&curr=1F6FEB&side=8B949E" height="170"/>
 
 <br/>
 
