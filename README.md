@@ -64,23 +64,19 @@ static const struct developer bd_loser = {
 
 ---
 
-<!-- Featured Project -->
-### Featured Project
+<!-- Featured Projects -->
+### Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/bd-loser/bun-termux">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bd-loser&repo=bun-termux&theme=github_dark&title_color=58a6ff&icon_color=1f6feb&bg_color=0d1117&border_color=30363d" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bd-loser&repo=bun-termux&theme=github_dark&title_color=58a6ff&icon_color=1f6feb&bg_color=0d1117&border_color=30363d" width="400"/>
+</a>
+<a href="https://github.com/bd-loser/opentui">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bd-loser&repo=opentui&theme=github_dark&title_color=58a6ff&icon_color=1f6feb&bg_color=0d1117&border_color=30363d" width="400"/>
 </a>
 
 </div>
-
-**[🥟 Bun for Termux](https://github.com/bd-loser/bun-termux)** — Run Bun natively on Android Termux. No glibc, no wrapper, no proot.
-
-- 🔧 Source patches for the resolver walk (Zig inline asm syscalls)
-- 📦 LD_PRELOAD shim for libc calls (linkat, fopen, execve, /proc/stat)
-- 🏗️ `bun build --compile` support (ELF PT_LOAD + PIE/ASLR fix)
-- 🚀 `bunx`, `bun install`, `bun run` — all working natively on Bionic
 
 ---
 
