@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=bd-loser&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Systems%20Programmer%20%C2%B7%20Zig%20%C2%B7%20ELF%20Internals%20%C2%B7%20Android%20Bionic&descSize=14&descColor=8b949e&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:58a6ff,100:a371f7&height=120&section=header&text=bd-loser&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Systems%20Programmer%20%C2%B7%20Zig%20%C2%B7%20ELF%20Internals%20%C2%B7%20Android%20Bionic&descSize=14&descColor=c9d1d9&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=%24+whoami;%60bd-loser%60+%E2%80%94+systems+programmer;%24+cat+focus.txt;ELF+%C2%B7+Zig+%C2%B7+Bionic+%C2%B7+LD_PRELOAD;%24+echo+%22Building+Bun+for+Android%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=%24+whoami;%60bd-loser%60+%E2%80%94+systems+programmer;%24+cat+focus.txt;ELF+%C2%B7+Zig+%C2%B7+Bionic+%C2%B7+LD_PRELOAD;%24+echo+%22Building+Bun+for+Android%22" alt="Typing SVG" />
 </a>
 
 </div>
@@ -23,10 +23,10 @@ struct developer {
 };
 
 static const struct developer bd_loser = {
-    .name           = "bd-loser",
-    .focus          = "systems programming · android internals",
+    .name            = "bd-loser",
+    .focus           = "systems programming · android internals",
     .current_project = "bun-termux — native Bun runtime for Android",
-    .location       = "Android / Termux",
+    .location        = "Android / Termux",
 };
 ```
 
@@ -38,7 +38,7 @@ static const struct developer bd_loser = {
 <div align="center">
 
 <!-- Systems -->
-<img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=black"/>
 <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/ELF-000000?style=for-the-badge&logo=elf&logoColor=white"/>
@@ -70,10 +70,10 @@ static const struct developer bd_loser = {
 <div align="center">
 
 <a href="https://github.com/bd-loser/bun-termux">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bd-loser&repo=bun-termux&theme=github_dark&title_color=58a6ff&icon_color=1f6feb&bg_color=0d1117&border_color=30363d" width="400"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bd-loser&repo=bun-termux&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&border_color=30363d" width="450"/>
 </a>
 <a href="https://github.com/bd-loser/opentui">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bd-loser&repo=opentui&theme=github_dark&title_color=58a6ff&icon_color=1f6feb&bg_color=0d1117&border_color=30363d" width="400"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=bd-loser&repo=opentui&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&bg_color=0d1117&border_color=30363d" width="450"/>
 </a>
 
 </div>
@@ -85,12 +85,12 @@ static const struct developer bd_loser = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bd-loser&show_icons=true&theme=github_dark&title_color=58a6ff&icon_color=1f6feb&bg_color=0d1117&border_color=30363d&hide_border=false&count_private=true" width="495"/>
-<img src="https://github-readme-streak-stats-hazel.vercel.app/?user=bd-loser&theme=github-dark-blue&hide_border=false&background=0D1117&stroke=30363D&ring=1F6FEB&fire=58A6FF&curr=1F6FEB&side=8B949E" width="495"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bd-loser&show_icons=true&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=false&count_private=true" width="450"/>
+<img src="https://github-readme-streak-stats-hazel.vercel.app/?user=bd-loser&theme=github-dark-blue&hide_border=false&background=0D1117&stroke=30363D&ring=1F6FEB&fire=F7A41D&curr=58A6FF&side=C9D1D9&dates=C9D1D9&labels=C9D1D9&num=58A6FF" width="450"/>
 
 <br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bd-loser&layout=compact&theme=github_dark&title_color=58a6ff&icon_color=1f6feb&bg_color=0d1117&border_color=30363d&hide_border=false&langs_count=8&card_width=495" width="495"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bd-loser&layout=compact&theme=github_dark&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=false&langs_count=8&card_width=450" width="450"/>
 
 </div>
 
@@ -138,4 +138,4 @@ static const struct developer bd_loser = {
   <sub>Built with 🥟 on Android · Powered by Termux + Bun</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:58a6ff,100:a371f7&height=80&section=footer" width="100%"/>
