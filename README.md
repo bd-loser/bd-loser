@@ -20,8 +20,11 @@ I port developer tooling to run natively on Android — compiled against Bionic,
 
 | Project | What it is | Focus |
 | :-- | :-- | :-- |
-| **[bun-termux](https://github.com/bd-loser/bun-termux)** | Source-patched Bun for Termux — native `bunx`, `bun build --compile`, Android 12-safe syscall surface | Rust · Bionic |
 | **[opencode-bionic](https://github.com/bd-loser/opencode-bionic)** | The opencode coding agent, native on Android — stable, beta and dev channels, published automatically | CI/CD · Bun |
+| **[bun-termux](https://github.com/bd-loser/bun-termux)** | Source-patched Bun for Termux — native `bunx`, `bun build --compile`, Android 12-safe syscall surface | Rust · Bionic |
+| **[camoufox-termux](https://github.com/bd-loser/camoufox-termux)** | Bionic-native Camoufox (anti-fingerprint Firefox) for aarch64 — built in CI, no glibc, no root | Firefox · CI |
+| **[hermes-bionic](https://github.com/bd-loser/hermes-bionic)** | Hermes agent on Termux — one-command install from checksum-verified prebuilt wheels, nothing compiled on-device | Python · Packaging |
+| **[wrangler-termux](https://github.com/bd-loser/wrangler-termux)** | Cloudflare Wrangler on Termux — full CLI (except `dev`) by stubbing workerd's platform lookup; deploys Workers from the phone | Node · Patching |
 | **[opentui](https://github.com/bd-loser/opentui)** | Android builds of OpenTUI published to npm as `@androidtui/*`, released in lockstep with upstream | Zig · NDK |
 | **[claude-code-termux](https://github.com/bd-loser/claude-code-termux)** | Claude Code CLI on aarch64 Android, including a DNS resolution workaround | Shell · Node |
 | **[colab-mcp-termux](https://github.com/bd-loser/colab-mcp-termux)** | Google Colab T4/L4 GPUs reachable from terminal agents over MCP | Python · maturin |
