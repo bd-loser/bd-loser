@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="214" viewBox="0 0 880 214">
+  
+  <rect x="1" y="1" width="878" height="212" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <path d="M1 13 a12 12 0 0 1 12 -12 h 856 a12 12 0 0 1 12 12 v 25 h -878 z" fill="#161b22"/>
+  <line x1="1" y1="38.5" x2="879" y2="38.5" stroke="#30363d" stroke-width="1"/>
+  <circle cx="24" cy="20" r="6" fill="#f85149"/>
+  <circle cx="44" cy="20" r="6" fill="#d29922"/>
+  <circle cx="64" cy="20" r="6" fill="#3fb950"/>
+  <text x="440" y="24.5" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e" text-anchor="middle">aman@android — ~/now</text>
+  
+  <text x="24" y="112" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="46" font-weight="700" fill="#f0f6fc">06:13</text>
+  <text x="24" y="140" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="13" fill="#8b949e">Sat, 24 Oct 2026 — GMT+6 · Dhaka</text>
+  <text x="330" y="70" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">LAST PUSH</text>
+  <text x="330" y="92" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14.5" fill="#e6edf3">opencode-bionic · 11h ago</text>
+  <text x="330" y="124" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">LATEST RELEASE</text>
+  <text x="330" y="146" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14.5" fill="#e6edf3">opencode-bionic v1.19.4 · 11h ago</text>
+  <text x="330" y="178" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">STATUS</text>
+  <circle cx="340" cy="202" r="4" fill="#3fb950">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="354" y="207" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14.5" fill="#e6edf3">shipping — latest build moving out to users</text>
+</svg>

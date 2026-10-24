@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="430" viewBox="0 0 880 430">
+  
+  <rect x="1" y="1" width="878" height="428" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <path d="M1 13 a12 12 0 0 1 12 -12 h 856 a12 12 0 0 1 12 12 v 25 h -878 z" fill="#161b22"/>
+  <line x1="1" y1="38.5" x2="879" y2="38.5" stroke="#30363d" stroke-width="1"/>
+  <circle cx="24" cy="20" r="6" fill="#f85149"/>
+  <circle cx="44" cy="20" r="6" fill="#d29922"/>
+  <circle cx="64" cy="20" r="6" fill="#3fb950"/>
+  <text x="440" y="24.5" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e" text-anchor="middle">aman@android — ~/profile</text>
+  
+  <g fill="#3ddc84">
+    <line x1="128" y1="108" x2="115" y2="88" stroke="#3ddc84" stroke-width="6" stroke-linecap="round"/>
+    <line x1="172" y1="108" x2="185" y2="88" stroke="#3ddc84" stroke-width="6" stroke-linecap="round"/>
+    <path d="M104 150 A46 46 0 0 1 196 150 Z"/>
+    <rect x="96" y="156" width="14" height="36" rx="7"/>
+    <rect x="190" y="156" width="14" height="36" rx="7"/>
+    <rect x="114" y="158" width="72" height="62" rx="16"/>
+    <circle cx="134" cy="130" r="4.5" fill="#0d1117"/>
+    <circle cx="166" cy="130" r="4.5" fill="#0d1117"/>
+  </g>
+  <text x="150" y="256" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="11.5" fill="#8b949e" text-anchor="middle">no glibc</text>
+  <text x="150" y="274" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="11.5" fill="#8b949e" text-anchor="middle">no proot</text>
+  <text x="150" y="292" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="11.5" fill="#8b949e" text-anchor="middle">no LD_PRELOAD</text>
+  <text x="300" y="86" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="17" font-weight="600" fill="#3fb950">bd-loser<tspan fill="#8b949e" font-weight="400"> @ aarch64-linux-android</tspan></text>
+  <text x="300" y="132" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#79c0ff">os:</text>
+  <text x="424" y="132" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">Android — Bionic, aarch64 (no glibc)</text>
+  <text x="300" y="162" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#79c0ff">kernel:</text>
+  <text x="424" y="162" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">patched at the syscall level — seccomp-safe</text>
+  <text x="300" y="192" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#79c0ff">shell:</text>
+  <text x="424" y="192" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">Termux + opencode</text>
+  <text x="300" y="222" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#79c0ff">focus:</text>
+  <text x="424" y="222" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">runtimes · cross-compilation · release CI</text>
+  <text x="300" y="252" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#79c0ff">shipping:</text>
+  <text x="424" y="252" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">bun-termux · opencode-bionic · @androidtui/*</text>
+  <text x="300" y="282" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#79c0ff">where:</text>
+  <text x="424" y="282" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#e6edf3">Dhaka, Bangladesh — GMT+6</text>
+</svg>
