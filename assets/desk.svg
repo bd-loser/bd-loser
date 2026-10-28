@@ -8,15 +8,15 @@
   <circle cx="64" cy="20" r="6" fill="#3fb950"/>
   <text x="440" y="24.5" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="12.5" fill="#8b949e" text-anchor="middle">aman@android — ~/now</text>
   
-  <text x="24" y="112" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="46" font-weight="700" fill="#f0f6fc">13:19</text>
+  <text x="24" y="112" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="46" font-weight="700" fill="#f0f6fc">20:26</text>
   <text x="24" y="140" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="13" fill="#8b949e">Wed, 28 Oct 2026 — GMT+6 · Dhaka</text>
   <text x="330" y="70" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">LAST PUSH</text>
-  <text x="330" y="92" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14.5" fill="#e6edf3">opencode-bionic · 4d ago</text>
+  <text x="330" y="92" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14.5" fill="#e6edf3">opencode-bionic · 17h ago</text>
   <text x="330" y="124" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">LATEST RELEASE</text>
   <text x="330" y="146" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14.5" fill="#e6edf3">opencode-bionic v1.19.4 · 5d ago</text>
   <text x="330" y="178" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#8b949e">STATUS</text>
   <circle cx="340" cy="202" r="4" fill="#3fb950">
     <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="354" y="207" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14.5" fill="#e6edf3">between ports — planning the next build</text>
+  <text x="354" y="207" font-family="ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14.5" fill="#e6edf3">shipping — latest build moving out to users</text>
 </svg>
